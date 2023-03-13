@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding 0px;
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+    background-image: url(fondo.jpg);
+    background-color: rgb(106, 0, 255);
+
+}
+
+h1{
+    color:mediumslateblue;
+    text-align: center;
+    font-size: 800%;
+    font-family: bob_esponja;
+}
+
+@font-face {
+    font-family:bob_esponja;
+    src: url(Spongeboy_Me_Bob.ttf);
+}
+
+.info1{
+    font-size: 30px;
+    text-align: center;
+}
+input{
+    font-size: 30px;
+    width:100% ;
+
+}
+
+.info2{
+    font-size: 30px;
+}
+
+.info3{
+    font-size: 30px;
+}
+
+.info4{
+    font-size: 30px;
+}
+
+.imga{
+    height: 50px;
+
+}
+
+section2{
+    margin: 250px;
+}
+
